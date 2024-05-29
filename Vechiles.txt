@@ -1,0 +1,9 @@
+Car  
+
+Bus
+
+Cycle
+
+Bike
+
+Auto
